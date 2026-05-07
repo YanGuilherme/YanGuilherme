@@ -114,4 +114,10 @@ Possuo certificação AWS Cloud Practitioner e experiência prática com:
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 > “Building scalable backend systems and learning something new every day.”
